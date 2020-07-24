@@ -1,24 +1,23 @@
-# README
+# kadai-tasklist-login
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+"kadai-tasklist" is Web application that Users can manage tasks
 
-Things you may want to cover:
+# Installation
 
-* Ruby version
+ruby 2.5.3p105 (2018-10-18 revision 65156)
+Rails 5.2.4.3
 
-* System dependencies
+# Usage
 
-* Configuration
+Put your tasks.
 
-* Database creation
+# Author
 
-* Database initialization
+* Akinori Toma
+* ignitoma_1031@yahoo.co.jp
 
-* How to run the test suite
+# License
 
-* Services (job queues, cache servers, search engines, etc.)
+"kadai-tasklist" is under [Akinori Toma license].
 
-* Deployment instructions
-
-* ...
+Enjoy making your posts!
